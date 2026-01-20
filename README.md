@@ -1,4 +1,4 @@
-# Tennis-Research
+# Tennis-Handedness-Research
 Research on the impacts of handedness on professional tennis
 
 As a part of Belmont University's SURFS program, I designed and carried out a study on the ways handedness, or someone's dominant hand, impacts the broad 
